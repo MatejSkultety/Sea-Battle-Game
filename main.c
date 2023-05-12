@@ -140,7 +140,7 @@ void clear_screen() {
 
 
 void print_image() {
-    /* Prints beautiful picture of USS Arizona (it actually works) */
+    /* Prints beautiful picture of USS Arizona */
 
     printf("                  \033[4;33m** \033[0;37m=====00       #############      |\033[4;31mKNM\033[0;37m      ");
     printf("\n\t      ###########        ####    # O  O  O  O  O #    |  ####   ");
